@@ -1,0 +1,54 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+  }
+form{
+    color: white;
+    font-family: "La Belle Aurore", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: "La Belle Aurore", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+body{
+    background-image: url(background-image.jpg);
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: transparent;
+  }
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: transparent;
+}
